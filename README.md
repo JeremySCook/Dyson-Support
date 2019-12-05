@@ -14,5 +14,6 @@ Update: now with a tool holder that's printed separately, and attaches with zip 
 
 ![image](wtools.jpg)
 
-Update 2: Added an FPV mount as [seen on Twitter](https://twitter.com/JeremySCook/status/1202614988210417670) as well.  
+Update 2: Added an FPV mount as [seen on Twitter](https://twitter.com/JeremySCook/status/1202614988210417670) as well.
 
+![image](dysonfpv.jpg)
